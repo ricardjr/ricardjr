@@ -13,11 +13,7 @@ Gosto de aprender novas tecnologias e estou construindo minha base em programaç
 💡 Tenho interesse em:  
 - Ciência de Dados  
 - Análise e visualização de informações  
-- Desenvolvimento de sistemas e soluções em TI  
-
-📫 Onde me encontrar:  
-- GitHub: [seu-usuario-aqui](https://github.com/seu-usuario-aqui)  
-- LinkedIn: *(adicione aqui quando criar)*  
-
+- Desenvolvimento de sistemas e soluções em TI
+  
 ---
 ✨ Sempre em busca de aprender mais e aplicar o conhecimento na prática!
