@@ -1,4 +1,4 @@
-"Estudante de informática e tecnologia"
+## Estudante de informática e tecnologia ##
 
 Sou estudante do curso **Técnico em Informática** no SENAC Tatuapé.  
 Gosto de aprender novas tecnologias e estou construindo minha base em programação, hardware e ciência de dados.  
