@@ -1,16 +1,23 @@
-## Hi there 
+"Estudante de informática e tecnologia"
 
-<!--
-**ricardjr/ricardjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso **Técnico em Informática** no SENAC Tatuapé.  
+Gosto de aprender novas tecnologias e estou construindo minha base em programação, hardware e ciência de dados.  
 
-Here are some ideas to get you started:
+📚 Atualmente estudo:  
+- Hardware e conceitos de elétrica/eletrônica  
+- Arduino e projetos práticos  
+- Git e GitHub  
+- Python para Data Science  
+- Noções iniciais de Inteligência Artificial  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tenho interesse em:  
+- Ciência de Dados  
+- Análise e visualização de informações  
+- Desenvolvimento de sistemas e soluções em TI  
+
+📫 Onde me encontrar:  
+- GitHub: [seu-usuario-aqui](https://github.com/seu-usuario-aqui)  
+- LinkedIn: *(adicione aqui quando criar)*  
+
+---
+✨ Sempre em busca de aprender mais e aplicar o conhecimento na prática!
